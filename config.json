@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersync",
+        "uuid": 528727,
+        "checksum": "xld49"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
